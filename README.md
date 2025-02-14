@@ -1,0 +1,2 @@
+- for CVIT : https://github.com/erprogs/CViT
+- Image deepfake detection : https://github.com/DariusAf/MesoNet
